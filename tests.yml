@@ -1,4 +1,4 @@
 repo_owner: EvilBoooy
-kittygram_domain: infra.servebeer.com
-taski_domain: taski.servebeer.com
+kittygram_domain: https://infra.servebeer.com
+taski_domain: https://taski.servebeer.com
 dockerhub_username: evilboooy
