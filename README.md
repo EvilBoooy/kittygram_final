@@ -1,5 +1,3 @@
-<img src="https://wiki.soiro.ru/images/Nyan-cat-png-transparent-images-175332-9145060.gif" width="385px" align="center">
-
 # Kittygram 
 Kittygram создан, чтобы хозяева могли делиться своими котиками.
 
